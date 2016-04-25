@@ -18,6 +18,6 @@ document.write("<ol>" + list + "</ol>");
 var myItems = [
   "question one"
   "question two"
-    ]
+    ];
     
 document.write("<p>"+myItems[0] + "</p>")
